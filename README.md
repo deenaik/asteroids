@@ -15,3 +15,5 @@ of the game, simply open the index.html file in your web browser.
 Many thanks to Doug for creating this awesome game.
 
 Test Change
+
+Second change
